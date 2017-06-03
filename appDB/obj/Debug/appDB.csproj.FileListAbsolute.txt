@@ -1,0 +1,9 @@
+C:\Users\Simone\Desktop\appDB\appDB\bin\Debug\appDB.exe.config
+C:\Users\Simone\Desktop\appDB\appDB\bin\Debug\appDB.exe
+C:\Users\Simone\Desktop\appDB\appDB\bin\Debug\appDB.pdb
+C:\Users\Simone\Desktop\appDB\appDB\obj\Debug\appDB.frmDB.resources
+C:\Users\Simone\Desktop\appDB\appDB\obj\Debug\appDB.Properties.Resources.resources
+C:\Users\Simone\Desktop\appDB\appDB\obj\Debug\appDB.csproj.GenerateResource.Cache
+C:\Users\Simone\Desktop\appDB\appDB\obj\Debug\appDB.exe
+C:\Users\Simone\Desktop\appDB\appDB\obj\Debug\appDB.pdb
+C:\Users\Simone\Desktop\appDB\appDB\obj\Debug\appDB.csprojResolveAssemblyReference.cache
