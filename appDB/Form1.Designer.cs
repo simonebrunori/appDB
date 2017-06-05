@@ -73,6 +73,7 @@
             this.btnCancella.TabIndex = 3;
             this.btnCancella.Text = "Cancella";
             this.btnCancella.UseVisualStyleBackColor = true;
+            this.btnCancella.Click += new System.EventHandler(this.btnCancella_Click);
             // 
             // txtPath
             // 

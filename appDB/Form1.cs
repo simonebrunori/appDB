@@ -67,5 +67,12 @@ namespace appDB
             }
             dataGridView1.DataSource = Program.l;
         }
+
+        private void btnCancella_Click(object sender, EventArgs e)
+        {
+            dataGridView1.DataSource = null;
+            dataGridView1.Rows.Clear();
+            txtCmd.Clear();
+        }
     }
 }
